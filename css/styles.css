@@ -56,8 +56,7 @@ header p {
 main {
   min-width: 1440px;
   height: 1205px;
-  background: url(/img/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D0%B5%D1%80.jpg) no-repeat
-    center;
+  background: url(/img/слайдер.jpg) no-repeat center;
 }
 
 .block {
